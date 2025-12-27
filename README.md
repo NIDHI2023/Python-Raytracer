@@ -4,4 +4,4 @@ Authors: Nidhi Soma, Natalie Suggs
 
 Rendered scene using ray.pay:
 
-![Picnic image](./raytracer/scene.png)
+![Picnic image](./scene.png)
